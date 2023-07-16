@@ -10,7 +10,7 @@
     border: 1px solid black;
 }
 
-.input-field.apply-shake {
+.comment-input-container .apply-shake {
     border: 1px solid red;
     animation: shake 0.82s cubic-bezier(.36,.07,.19,.97) both;
 }

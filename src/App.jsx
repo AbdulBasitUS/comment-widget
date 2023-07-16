@@ -1,6 +1,6 @@
 import { useContext } from 'react';
 import CommentList from './components/CommentList';
-import { CommentsContext } from './contexts/commentsCotext';
+import { CommentsContext } from './contexts/CommentsCotext';
 import './App.css'
 import CommentInputContainer from './components/CommentInputContainer';
 

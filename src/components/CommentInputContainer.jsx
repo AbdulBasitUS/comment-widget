@@ -1,5 +1,5 @@
 import { useContext, useState } from 'react'
-import { CommentsContext } from '../contexts/commentsCotext'
+import { CommentsContext } from '../contexts/CommentsCotext'
 import '../styles/Button.css'
 import '../styles/CommentInputContainer.css'
 import { generateTimeStamp } from './../utils/generatTimeStamp';

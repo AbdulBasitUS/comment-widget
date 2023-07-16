@@ -1,5 +1,5 @@
 import { useState,  useContext } from 'react'
-import { CommentsContext } from '../contexts/commentsCotext'
+import { CommentsContext } from '../contexts/CommentsCotext'
 import CommentInputContainer from './CommentInputContainer'
 import '../styles/Button.css'
 import '../styles/Comment.css'
